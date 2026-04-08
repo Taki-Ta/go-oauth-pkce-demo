@@ -1,0 +1,13 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build output
+bin/
+dist/
+
+# Local auth artifacts
+.demo-token.json
+.env
